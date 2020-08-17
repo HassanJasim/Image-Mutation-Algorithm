@@ -14,7 +14,7 @@ The goal images, then the images produced by the genetic algorithm are seen belo
 
 ![Test](https://github.com/joshuaguinness/Generating-Image/blob/master/mcmaster.jpg)  ![Test](https://github.com/joshuaguinness/Generating-Image/blob/master/mcmaster2.jpg)
 
-To view how the transition looks, check out the youtube video here: https://www.youtube.com/watch?v=jxaMN8UhF60, or the gif below.
+To view how the transition looks, check out the gif below.
 
 ![Test](https://github.com/joshuaguinness/Generating-Image/blob/master/Generating-Image.gif)
 
